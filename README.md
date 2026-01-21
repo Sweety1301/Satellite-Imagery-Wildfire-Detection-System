@@ -42,7 +42,7 @@ The system leverages transfer learning and introduces a hybrid CNN architecture 
 Model	Accuracy
 | Model            | Accuracy |
 |------------------|----------|
-| ResNet152        | 94.5%    |
+| ResNet152        | 94.25%    |
 | InceptionV3      | 97.25%    |
 | Hybrid ResIncepNet | 97.29% |
 
