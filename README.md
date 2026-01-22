@@ -65,3 +65,8 @@ The proposed hybrid model demonstrates competitive performance compared to recen
 - Lightweight model deployment
 - Real-time monitoring system
 - Web or mobile application integration
+
+---
+# How to run the file
+1. Install dependencies
+2. Run the main file
